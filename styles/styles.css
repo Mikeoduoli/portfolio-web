@@ -169,13 +169,13 @@
     }
 
     .about-img img {
-        width: 35vw;
+        width: 55vw;
+        /* border-radius: 50%; */
     }
 
     .about .about-img .sized-img {
-        border-radius: 50%;
-        height: 400px;
-        width: 400px;
+        border-radius: 100%;
+        width: 80%;
     }
 
     .heading {
